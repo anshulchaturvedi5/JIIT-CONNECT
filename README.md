@@ -13,12 +13,6 @@ JIIT Connect stands as a groundbreaking, all-encompassing application meticulous
 - **My Profile**: Users can check their profile information, including name and Gmail ID. Users can also log out from the app from this section.
 
 
-## Objectives
-
-- To contribute to the growth and sustainability of India's tourism industry.
-- To enrich the travel experiences of visitors through comprehensive and accessible information.
-- To ensure every trip through India is memorable, immersive, and hassle-free.
-
 ## How to Use
 
 1. **Explore Campus Life**: Access detailed guides to societies, events, hackathons, and competitions.
